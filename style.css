@@ -11,16 +11,16 @@ body{
     font-family: arial, sans-serif;
      background-color: hsl(0, 0%, 15%);
      border-radius: 10px;
-     max-width: 50%;
+     max-width:250px;
      overflow: hidden;
 }
 
 #display{
     width: 100%;
     padding: 1rem;
-    font-size: 3rem;
+    font-size: 2rem;
     border: none;
-    background-color: hsl(0, 0%, 20%);
+    background-color: hsl(0, 0%, 25%);
     color: white;
 
 }
@@ -34,8 +34,8 @@ body{
 
 
 button{
-    width: 2rem;
-    height:2rem;
+    width: 2.5rem;
+    height:2.5rem;
     border-radius: 50%;
     border: none;
     background-color: hsl(0, 0%, 30%);
