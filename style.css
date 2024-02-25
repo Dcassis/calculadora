@@ -7,6 +7,12 @@ body{
     background-color: hsl(0, 0%, 94%);
 }
 
+h1{
+    text-align: center;
+    font-size: 5rem;
+    margin: 0;
+}
+
 #calculator{
     font-family: arial, sans-serif;
      background-color: hsl(0, 0%, 15%);
